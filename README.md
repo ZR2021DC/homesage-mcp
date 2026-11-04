@@ -81,4 +81,4 @@ This repository holds the public listing files for Homesage.ai MCP: this README,
 
 ## Listed on
 
-[![Homesage.ai MCP on AI Agents Listing](https://aiagentslisting.com/homesage-ai-mcp/badge.svg?claim=0f377aa5106cf1341cb996b5211f73da)](https://aiagentslisting.com/mcp/homesage-ai-mcp)
+[![Homesage.ai MCP on AI Agents Listing](https://aiagentslisting.com/homesage-ai-mcp/badge.svg)](https://aiagentslisting.com/mcp/homesage-ai-mcp)
