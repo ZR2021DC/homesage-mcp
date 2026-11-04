@@ -78,3 +78,7 @@ This repository holds the public listing files for Homesage.ai MCP: this README,
 - Product page: https://homesage.ai/products/real-estate-mcps/
 - Real Estate APIs: https://homesage.ai/products/real-estate-apis/
 - Contact: contact@homesage.ai
+
+## Listed on
+
+[![Homesage.ai MCP on AI Agents Listing](https://aiagentslisting.com/homesage-ai-mcp/badge.svg?claim=0f377aa5106cf1341cb996b5211f73da)](https://aiagentslisting.com/mcp/homesage-ai-mcp)
