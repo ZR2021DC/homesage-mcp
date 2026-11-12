@@ -1,0 +1,12 @@
+{
+  "name": "homesage-ai",
+  "displayName": "Homesage.ai MCP",
+  "version": "1.0.0",
+  "description": "Estimated values, comps, rent, rehab costs and returns for 160M+ US properties, as 30+ agent tools.",
+  "author": {
+    "name": "Homesage.ai"
+  },
+  "license": "MIT",
+  "keywords": ["real-estate", "property-data", "mcp", "valuation", "comps"],
+  "logo": "assets/logo.png"
+}

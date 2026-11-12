@@ -65,13 +65,30 @@ Add this to `.vscode/mcp.json` (also in this repo):
 }
 ```
 
+### Cline
+
+In Cline, open MCP Servers, then Remote Servers. Enter the name `homesage`, the URL `https://api.homesage.ai/mcp` and the transport Streamable HTTP. Or add this to `cline_mcp_settings.json`:
+
+```json
+{
+  "mcpServers": {
+    "homesage": {
+      "type": "streamableHttp",
+      "url": "https://api.homesage.ai/mcp"
+    }
+  }
+}
+```
+
+Then press **Authorize OAuth** and sign in with your Homesage.ai account.
+
 ### ChatGPT and other MCP clients
 
 Add a remote MCP server with the URL `https://api.homesage.ai/mcp` and sign in when asked.
 
 ## About this repository
 
-This repository holds the public listing files for Homesage.ai MCP: this README, `server.json` for the [Official MCP Registry](https://registry.modelcontextprotocol.io) and client config examples. The server itself is hosted by Homesage.ai.
+This repository holds the public listing files for Homesage.ai MCP: this README, `server.json` for the [Official MCP Registry](https://registry.modelcontextprotocol.io), the Cursor Directory plugin files (`.cursor-plugin/plugin.json`, `mcp.json`, `assets/logo.png`) and client config examples. The server itself is hosted by Homesage.ai.
 
 ## Links
 
